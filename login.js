@@ -1,1 +1,1 @@
-function login() { return true; }
+function login_function_main() { return true; }
